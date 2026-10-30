@@ -1,0 +1,44 @@
+{
+  "routes": [
+    {
+      "path": "/",
+      "title": "Kani Ceramics \u2014 Home"
+    },
+    {
+      "path": "/catalogue",
+      "title": "Tile Catalogue"
+    },
+    {
+      "path": "/bathroom-living",
+      "title": "Bathroom & Living"
+    },
+    {
+      "path": "/visualizer",
+      "title": "Room Visualiser"
+    },
+    {
+      "path": "/curated-combinations",
+      "title": "Curated Combinations"
+    },
+    {
+      "path": "/enquiry",
+      "title": "Enquiry"
+    },
+    {
+      "path": "/story",
+      "title": "Our Story"
+    },
+    {
+      "path": "/how-it-works",
+      "title": "How It Works"
+    },
+    {
+      "path": "/faqs",
+      "title": "FAQs"
+    },
+    {
+      "path": "/visit",
+      "title": "Visit Showroom"
+    }
+  ]
+}

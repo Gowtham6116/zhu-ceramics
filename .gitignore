@@ -1,0 +1,9 @@
+# Local dependencies and generated files
+node_modules/
+.env
+.env.*
+!.env.example
+.dev.vars
+.wrangler/
+.DS_Store
+Thumbs.db
